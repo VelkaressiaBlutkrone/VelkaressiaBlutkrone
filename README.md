@@ -3,7 +3,7 @@
 
 <img alt="Velkaressia Blutkrone" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:6d0000,100:0a0000&height=230&section=header&text=Velkaressia%20Blutkrone&fontSize=54&fontColor=f2e9e9&fontAlignY=40&desc=Necromancer%20of%20Code&descSize=20&descAlignY=62" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&duration=3600&pause=900&color=B22222&center=true&vCenter=true&width=820&height=55&lines=코드의+강령술사+·+Necromancer+of+Code;수련생에서+아키텍트로+·+From+apprentice+to+architect;분산+시스템을+벼리는+자+·+Forging+distributed+systems)](https://github.com/VelkaressiaBlutkrone)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&duration=3600&pause=900&color=B22222&center=true&vCenter=true&width=820&height=55&lines=%EC%BD%94%EB%93%9C%EC%9D%98+%EA%B0%95%EB%A0%B9%EC%88%A0%EC%82%AC+%C2%B7+Necromancer+of+Code;%EC%88%98%EB%A0%A8%EC%83%9D%EC%97%90%EC%84%9C+%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C+%C2%B7+From+apprentice+to+architect;%EB%B6%84%EC%82%B0+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%B2%BC%EB%A6%AC%EB%8A%94+%EC%9E%90+%C2%B7+Forging+distributed+systems)](https://github.com/VelkaressiaBlutkrone)
 
 **🩸 피의 왕관을 쓴 풀스택 강령술사 · A full-stack necromancer, crowned in blood 🩸**
 
