@@ -163,7 +163,7 @@ Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / R
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VelkaressiaBlutkrone&style=for-the-badge&color=8B0000&labelColor=0d1117&label=PROFILE+VIEWS" />
 <img alt="Followers" src="https://img.shields.io/github/followers/VelkaressiaBlutkrone?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B0000&labelColor=0d1117" />
-<img alt="Following" src="https://img.shields.io/github/following/VelkaressiaBlutkrone?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWING&color=8B0000&labelColor=0d1117" />
+<img alt="Following 5" src="https://img.shields.io/badge/FOLLOWING-5-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 <br />
 <img alt="Class: Full-Stack Necromancer" src="https://img.shields.io/badge/CLASS-Full--Stack_Necromancer-8B0000?style=for-the-badge&labelColor=0d1117" />
 <img alt="Strongholds: 8 Orgs" src="https://img.shields.io/badge/STRONGHOLDS-8_Orgs-8B0000?style=for-the-badge&labelColor=0d1117" />
