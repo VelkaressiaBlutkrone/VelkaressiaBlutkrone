@@ -161,8 +161,11 @@ Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / R
 
 <div align="center">
 
-<img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=VelkaressiaBlutkrone&show_icons=true&hide_border=true&title_color=b22222&icon_color=8b0000&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelkaressiaBlutkrone&layout=compact&hide_border=true&title_color=b22222&text_color=c9d1d9&bg_color=0d1117" />
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VelkaressiaBlutkrone&style=for-the-badge&color=8B0000&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img alt="Followers" src="https://img.shields.io/github/followers/VelkaressiaBlutkrone?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B0000&labelColor=0d1117" />
+<img alt="Awakened Jan 2021" src="https://img.shields.io/badge/AWAKENED-Jan_2021-8B0000?style=for-the-badge&labelColor=0d1117" />
+
+<br /><br />
 
 <img height="165" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VelkaressiaBlutkrone&hide_border=true&background=0d1117&stroke=8b0000&ring=b22222&fire=b22222&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b8b8b&currStreakNum=f2e9e9&sideNums=f2e9e9" />
 
