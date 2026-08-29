@@ -84,6 +84,58 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
+### HMS — 병원 예약 & 내부 업무 시스템 · A hospital reservation & internal-operations system
+
+병원 예약과 내부 업무를 다루는 팀 프로젝트. <br />
+*A team project covering hospital reservations and internal operations.*
+
+- **Stack** — Spring Boot · Mustache · MySQL
+- **Repos** —
+[hms](https://github.com/proejct-team-alpha/hms) ·
+[documents](https://github.com/proejct-team-alpha/documents)
+
+<p>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img alt="Mustache" src="https://img.shields.io/badge/Mustache-1f6feb?style=for-the-badge" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f6feb?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<!-- ═══════════════ ③-1 Learning & Practice Projects ═══════════════ -->
+## 📚 Learning & Practice Projects
+
+풀스택 기반기를 다진 학습·예제 프로젝트 모음. <br />
+*Hands-on exercises that built the full-stack foundations.*
+
+<details>
+<summary><b>🌱 Spring & Backend (5)</b></summary>
+
+<br />
+
+- [spring-python-llm-exam-mng](https://github.com/VelkaressiaBlutkrone/spring-python-llm-exam-mng) — **LLM Sample Management System** · Spring Boot + Python LLM 서버 추론, MySQL 챗 히스토리 저장 · *LLM inference via a Python server with chat history in MySQL*
+- [spring-cinema-app-ex](https://github.com/VelkaressiaBlutkrone/spring-cinema-app-ex) — **영화관 예매 시스템** · 실시간 좌석 예매 풀스택(React · Flutter · Spring Boot) · *real-time seat booking across web, mobile, and backend*
+- [spring-react-product-mng](https://github.com/VelkaressiaBlutkrone/spring-react-product-mng) — **제품 관리 시스템** · REST API + React SPA, 변경 이력 추적·통계 제공 · *product CRUD with history tracking and statistics*
+- [spring-shopping-server-exam01](https://github.com/VelkaressiaBlutkrone/spring-shopping-server-exam01) — **Shopping App Server** · JWT 인증·트랜잭션 관리·예외 처리 구조 · *JWT auth, transaction management, and exception design*
+- [java-socket-product-mng](https://github.com/VelkaressiaBlutkrone/java-socket-product-mng) — **Java Socket 상품 관리** · 소켓 통신 클라이언트-서버 + MySQL · *socket-based client-server product management*
+
+</details>
+
+<details>
+<summary><b>💙 Flutter & Mobile (7)</b></summary>
+
+<br />
+
+- [flutter-riverpod-ex01](https://github.com/VelkaressiaBlutkrone/flutter-riverpod-ex01) — **Flutter Todo** · Riverpod 상태 관리 할일 앱 · *a todo app with Riverpod state management*
+- [flutter-firestore-ex04](https://github.com/VelkaressiaBlutkrone/flutter-firestore-ex04) — **Firestore 커뮤니티 앱** · 인증·텍스트/이미지 게시판·실시간 동기화 · *auth, text/image boards, and realtime sync*
+- [flutter-mongodb-employee-ex](https://github.com/VelkaressiaBlutkrone/flutter-mongodb-employee-ex) — **MongoDB 직원 관리** · Flutter + MongoDB NoSQL 직원 관리 시스템 · *employee management on MongoDB*
+- [flutter-provider-ex01](https://github.com/VelkaressiaBlutkrone/flutter-provider-ex01) — **Provider Todo** · ChangeNotifier 기반 상태 관리 학습 · *state management with Provider and ChangeNotifier*
+- [flutter-firestore-ex02](https://github.com/VelkaressiaBlutkrone/flutter-firestore-ex02) — **Firebase 학습 2** · Firebase 인증 + 게시판 작성·수정·삭제 · *Firebase auth with board CRUD*
+- [flutter-firestore-ex01](https://github.com/VelkaressiaBlutkrone/flutter-firestore-ex01) — **Firebase 학습 1** · Firestore 실시간 CRUD · *realtime CRUD with Firestore*
+- [flutter-employee](https://github.com/VelkaressiaBlutkrone/flutter-employee) — **Flutter 기본기 학습** · 직원 관리로 익힌 Flutter 기본 기능 · *Flutter fundamentals via an employee-management app*
+
+</details>
+
 ---
 
 <!-- ═══════════════ ④ Tech Stack ═══════════════ -->
