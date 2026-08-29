@@ -80,9 +80,9 @@ DevPath AI·Synapse 두 프로젝트의 기술 설명·서비스 링크·스택 
 - 배지 문구 교체:
   - `CLASS: Full-Stack Necromancer` → `ROLE: Full-Stack Developer`
   - `STRONGHOLDS: 8 Orgs` → `ORGS: 8`
-  - `AWAKENED: Jan 2021` → `SINCE: Jan 2021`
+  - `AWAKENED: Jan 2021` → `JOINED: Jan 2021` (GitHub 가입 시점 표기 — 개발 경력 시점으로 오독되지 않도록)
   - `FOCUS: MSA & Event-Driven` → 문구 유지
-- 각주 평문화: "주요 작업은 비공개/조직 레포에 있습니다 · Most work lives in private & org repos."
+- 각주 평문화(2줄): "주요 작업은 비공개/조직 레포에 있어 공개 통계에 모두 잡히지 않습니다 — Featured Projects와 Journey가 실제 작업을 보여줍니다." · "Most work lives in private & org repos and isn't fully reflected here — see Featured Projects and Journey for the real picture."
 
 ### ⑦ Contact
 GitHub·Email 배지 유지, 색상 교체. 푸터 웨이빙 이미지 뉴트럴 그라데이션으로 교체.

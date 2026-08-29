@@ -1,3 +1,5 @@
+> **SUPERSEDED** (2026-08-29): 본 문서는 `docs/superpowers/specs/2026-08-29-profile-remodel-design.md`로 대체되었습니다.
+
 # 프로필 README 구현 계획 (The Grimoire of Velkaressia Blutkrone)
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.

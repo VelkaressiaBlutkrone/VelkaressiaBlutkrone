@@ -7,7 +7,7 @@
 
 **[@VelkaressiaBlutkrone](https://github.com/VelkaressiaBlutkrone)**
 
-*이벤트 기반 분산 시스템을 설계하고 만드는 풀스택 개발자*
+*이벤트 기반 분산 시스템을 설계하고 만드는 풀스택 개발자* <br />
 *A full-stack developer designing and building event-driven distributed systems*
 
 </div>
@@ -29,7 +29,7 @@
 
 ### DevPath AI — AI 개발자 학습 플랫폼 · An AI-driven developer-learning platform
 
-이벤트 기반 마이크로서비스로 구성된 대규모 학습 플랫폼.
+이벤트 기반 마이크로서비스로 구성된 대규모 학습 플랫폼. <br />
 *A large-scale learning platform built on event-driven microservices.*
 
 - **Role** — 시스템 설계 및 팀 리딩 · system design & team lead
@@ -57,7 +57,7 @@
 
 ### Synapse — 8개 서비스 MSA 플랫폼 · An 8-service microservices platform
 
-git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템.
+git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 *A domain-oriented distributed system managed as a git-submodule umbrella.*
 
 - **Role** — 아키텍처 설계 및 팀 리딩 · architecture design & team lead
@@ -140,16 +140,16 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템.
 <!-- ═══════════════ ⑤ Journey ═══════════════ -->
 ## 📈 Journey
 
-**Foundations** *(late 2025)*
-Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습.
+**Foundations** *(late 2025)* <br />
+Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습. <br />
 *Java/Spring fundamentals, servlet·socket·board exercises, Flutter with Firestore/Riverpod.*
 
-**Expansion** *(H1 2026)*
-풀스택 통합(Spring + React + Flutter), MSA 입문, 병원 시스템 [HMS](https://github.com/proejct-team-alpha/hms) 팀 프로젝트, Docker·AWS 확장.
+**Expansion** *(H1 2026)* <br />
+풀스택 통합(Spring + React + Flutter), MSA 입문, 병원 시스템 [HMS](https://github.com/proejct-team-alpha/hms) 팀 프로젝트, Docker·AWS 확장. <br />
 *Full-stack integration, first MSA work, the HMS hospital-system team project, Docker & AWS.*
 
-**Distributed Systems** *(mid 2026)*
-[Synapse](https://github.com/team-project-final/synapse)(8-svc MSA + GitOps)와 [DevPath AI](https://github.com/DevPathAi)(이벤트 드리븐 · gVisor 격리 · AI 오케스트레이션) 설계·구축.
+**Distributed Systems** *(mid 2026)* <br />
+[Synapse](https://github.com/team-project-final/synapse)(8-svc MSA + GitOps)와 [DevPath AI](https://github.com/DevPathAi)(이벤트 드리븐 · gVisor 격리 · AI 오케스트레이션) 설계·구축. <br />
 *Designing and building Synapse (8-svc MSA + GitOps) and DevPath AI (event-driven · gVisor isolation · AI orchestration).*
 
 ---
@@ -166,7 +166,7 @@ Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / R
 <img alt="Role: Full-Stack Developer" src="https://img.shields.io/badge/ROLE-Full--Stack_Developer-1f6feb?style=for-the-badge&labelColor=0d1117" />
 <img alt="Orgs: 8" src="https://img.shields.io/badge/ORGS-8-1f6feb?style=for-the-badge&labelColor=0d1117" />
 <img alt="Focus: MSA & Event-Driven" src="https://img.shields.io/badge/FOCUS-MSA_%26_Event--Driven-1f6feb?style=for-the-badge&labelColor=0d1117" />
-<img alt="Since Jan 2021" src="https://img.shields.io/badge/SINCE-Jan_2021-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img alt="Joined Jan 2021" src="https://img.shields.io/badge/JOINED-Jan_2021-1f6feb?style=for-the-badge&labelColor=0d1117" />
 
 <br /><br />
 
@@ -174,7 +174,7 @@ Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / R
 
 </div>
 
-> 주요 작업은 비공개/조직 레포에 있어 공개 통계에 모두 잡히지 않습니다 — Featured Projects와 Journey가 실제 작업을 보여줍니다.
+> 주요 작업은 비공개/조직 레포에 있어 공개 통계에 모두 잡히지 않습니다 — Featured Projects와 Journey가 실제 작업을 보여줍니다. <br />
 > *Most work lives in private & org repos and isn't fully reflected here — see Featured Projects and Journey for the real picture.*
 
 ---

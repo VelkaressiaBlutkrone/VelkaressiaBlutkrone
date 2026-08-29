@@ -1,3 +1,5 @@
+> **SUPERSEDED** (2026-08-29): 본 문서는 `docs/superpowers/specs/2026-08-29-profile-remodel-design.md`로 대체되었습니다.
+
 # GitHub 프로필 README 설계 — "The Grimoire of Velkaressia Blutkrone"
 
 - **작성일**: 2026-07-29
