@@ -1,46 +1,42 @@
-<!-- ═══════════════ ① 표제 · Cover ═══════════════ -->
+<!-- ═══════════════ ① Cover ═══════════════ -->
 <div align="center">
 
-<img alt="Velkaressia Blutkrone" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:6d0000,100:0a0000&height=230&section=header&text=Velkaressia%20Blutkrone&fontSize=54&fontColor=f2e9e9&fontAlignY=40&desc=Necromancer%20of%20Code&descSize=20&descAlignY=62" />
+<img alt="Full-Stack Developer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=230&section=header&text=Full-Stack%20Developer&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Distributed%20Systems%20%C2%B7%20MSA%20%C2%B7%20Event-Driven&descSize=20&descAlignY=62" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&duration=3600&pause=900&color=B22222&center=true&vCenter=true&width=820&height=55&lines=%EC%BD%94%EB%93%9C%EC%9D%98+%EA%B0%95%EB%A0%B9%EC%88%A0%EC%82%AC+%C2%B7+Necromancer+of+Code;%EC%88%98%EB%A0%A8%EC%83%9D%EC%97%90%EC%84%9C+%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C+%C2%B7+From+apprentice+to+architect;%EB%B6%84%EC%82%B0+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%B2%BC%EB%A6%AC%EB%8A%94+%EC%9E%90+%C2%B7+Forging+distributed+systems)](https://github.com/VelkaressiaBlutkrone)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&duration=3600&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=%EC%9D%B4%EB%B2%A4%ED%8A%B8+%EA%B8%B0%EB%B0%98+%EB%B6%84%EC%82%B0+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4+%C2%B7+Building+event-driven+distributed+systems;Spring+%C2%B7+React+%C2%B7+Flutter+%ED%92%80%EC%8A%A4%ED%83%9D+%C2%B7+Full-stack+across+Spring%2C+React%2C+Flutter;Kubernetes+GitOps+%C2%B7+AI+Orchestration)](https://github.com/VelkaressiaBlutkrone)
 
-**🩸 피의 왕관을 쓴 풀스택 강령술사 · A full-stack necromancer, crowned in blood 🩸**
+**[@VelkaressiaBlutkrone](https://github.com/VelkaressiaBlutkrone)**
 
-*예제·수련의 잿더미에서 분산 시스템을 벼려내는 중*
-*Forging distributed systems from the ashes of a thousand exercises*
+*이벤트 기반 분산 시스템을 설계하고 만드는 풀스택 개발자*
+*A full-stack developer designing and building event-driven distributed systems*
 
 </div>
 
 ---
 
-<!-- ═══════════════ ② 소환의 장 · About ═══════════════ -->
-## 🩸 소환의 장 · Summoning
+<!-- ═══════════════ ② About Me ═══════════════ -->
+## 👋 About Me
 
-> *어둠 속에서 코드가 깨어난다. 백엔드의 관(棺), 프론트의 첨탑, 모바일의 결계를 오가며 시스템에 생명을 불어넣는다.*
-> *From the dark, code awakens — I move between the crypt of the backend, the spire of the frontend, and the wards of mobile, breathing life into systems.*
-
-- 🗡️ **풀스택 · Full-stack** — Spring(백엔드) · React(프론트) · Flutter(모바일)을 하나의 의식(儀式)으로
-- 🩸 **성장의 아크 · The arc** — 예제·수련 → 이벤트 기반 분산 시스템 아키텍처 · from exercises to event-driven distributed architecture
-- 🔮 **현재의 탐구 · Now delving into** — MSA · Event-Driven · Kubernetes / GitOps · AI Orchestration
-- 🏰 **거점 · Strongholds** — 8개 조직에서 팀 프로젝트를 이끄는 중 · leading team projects across 8 orgs
+- **풀스택 · Full-stack** — Spring(백엔드) · React(프론트) · Flutter(모바일)
+- **성장 궤적 · Growth arc** — 기초 학습에서 이벤트 기반 분산 시스템 아키텍처로 · from fundamentals to event-driven distributed architecture
+- **현재 관심 · Current focus** — MSA · Event-Driven · Kubernetes / GitOps · AI Orchestration
+- **협업 · Collaboration** — 8개 조직에서 팀 프로젝트를 이끄는 중 · leading team projects across 8 orgs
 
 ---
 
-<!-- ═══════════════ ③ 대마법서 서고 · Flagship ═══════════════ -->
-## 📜 대마법서 서고 · The Grimoire Vault
+<!-- ═══════════════ ③ Featured Projects ═══════════════ -->
+## 🚀 Featured Projects
 
-두 권의 대마법서가 서고의 중심을 차지한다. · *Two grand grimoires anchor the vault.*
+### DevPath AI — AI 개발자 학습 플랫폼 · An AI-driven developer-learning platform
 
-### 📕 DevPath AI — *AI 개발자 학습 플랫폼 · An AI-driven developer-learning platform*
+이벤트 기반 마이크로서비스로 구성된 대규모 학습 플랫폼.
+*A large-scale learning platform built on event-driven microservices.*
 
-이벤트 기반 마이크로서비스로 짜인 대규모 학습 플랫폼.
-*A large-scale learning platform woven from event-driven microservices.*
-
-- ⚙️ **아키텍처 · Architecture** — OAuth2 / JWT 엣지 게이트웨이 · 이벤트 기반 서비스 분해 · Kubernetes GitOps 배포
-- 🧪 **격리 실행 · Isolated execution** — `sandbox-svc`가 **Docker + gVisor**로 사용자 코드를 봉인해 실행
-- 🤖 **AI 계층 · AI layer** — AI 게이트웨이 오케스트레이터 · 리뷰 워커 · FinOps 비용 통제
-- 🧩 **구성 · Services** —
+- **Role** — 시스템 설계 및 팀 리딩 · system design & team lead
+- **Architecture** — OAuth2 / JWT 엣지 게이트웨이 · 이벤트 기반 서비스 분해 · Kubernetes GitOps 배포
+- **Isolated execution** — `sandbox-svc`가 **Docker + gVisor**로 사용자 코드를 격리 실행 · user code sandboxed with Docker + gVisor
+- **AI layer** — AI 게이트웨이 오케스트레이터 · 리뷰 워커 · FinOps 비용 통제
+- **Services** —
 [gateway](https://github.com/DevPathAi/devpath-gateway) ·
 [platform-svc](https://github.com/DevPathAi/devpath-platform-svc) ·
 [ai-svc](https://github.com/DevPathAi/devpath-ai-svc) ·
@@ -51,24 +47,25 @@
 [frontend](https://github.com/DevPathAi/devpath-frontend)
 
 <p>
-<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-8B0000?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-8B0000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/gVisor-8B0000?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-1f6feb?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/gVisor-1f6feb?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### 📗 Synapse — *8개 서비스 MSA 플랫폼 · An 8-service microservices platform*
+### Synapse — 8개 서비스 MSA 플랫폼 · An 8-service microservices platform
 
 git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템.
-*A domain-oriented distributed system bound by a git-submodule umbrella.*
+*A domain-oriented distributed system managed as a git-submodule umbrella.*
 
-- 🕸️ **엄브렐러 · Umbrella** — `synapse` 메타 레포가 서비스/인프라를 submodule로 통합
-- 📐 **계약 · Contracts** — `synapse-shared`의 **Avro 스키마** + 공통 라이브러리
-- 🚀 **배포 · Delivery** — **Kubernetes + ArgoCD ApplicationSet** GitOps
-- 🧩 **도메인 · Domains** —
-[🏛 umbrella](https://github.com/team-project-final/synapse) ·
+- **Role** — 아키텍처 설계 및 팀 리딩 · architecture design & team lead
+- **Umbrella** — `synapse` 메타 레포가 서비스/인프라를 submodule로 통합
+- **Contracts** — `synapse-shared`의 **Avro 스키마** + 공통 라이브러리
+- **Delivery** — **Kubernetes + ArgoCD ApplicationSet** GitOps
+- **Domains** —
+[umbrella](https://github.com/team-project-final/synapse) ·
 [gateway](https://github.com/team-project-final/synapse-gateway) ·
 [platform-svc](https://github.com/team-project-final/synapse-platform-svc) ·
 [knowledge-svc](https://github.com/team-project-final/synapse-knowledge-svc) ·
@@ -79,114 +76,115 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템.
 [gitops](https://github.com/team-project-final/synapse-gitops)
 
 <p>
-<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-8B0000?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Avro-8B0000?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-8B0000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo_CD-8B0000?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-8B0000?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo_CD-1f6feb?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-<!-- ═══════════════ ④ 무기고 · Arsenal ═══════════════ -->
-## ⚔️ 무기고 · Arsenal
+<!-- ═══════════════ ④ Tech Stack ═══════════════ -->
+## 🛠️ Tech Stack
 
-**🩸 Languages**
+**Languages**
 <p>
-<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-8B0000?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-8B0000?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-1f6feb?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-1f6feb?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-1f6feb?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-**🗡️ Backend**
+**Backend**
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-8B0000?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Cloud_Gateway-8B0000?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Cloud_Gateway-1f6feb?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-**🔮 Frontend**
+**Frontend**
 <p>
-<img src="https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-8B0000?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Riverpod-8B0000?style=for-the-badge&logo=riverpod&logoColor=white" />
+<img src="https://img.shields.io/badge/React-1f6feb?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Riverpod-1f6feb?style=for-the-badge&logo=riverpod&logoColor=white" />
 </p>
 
-**🗄️ Data**
+**Data**
 <p>
-<img src="https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-8B0000?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firestore-8B0000?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Avro-8B0000?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-1f6feb?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-1f6feb?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firestore-1f6feb?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-**🏰 Infra & DevOps**
+**Infra & DevOps**
 <p>
-<img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-8B0000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo_CD-8B0000?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/gVisor-8B0000?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-8B0000?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-1f6feb?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo_CD-1f6feb?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/gVisor-1f6feb?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-1f6feb?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
-**🤖 AI**
+**AI**
 <p>
-<img src="https://img.shields.io/badge/LLM_Orchestration-8B0000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_AI_Service-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-1f6feb?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_AI_Service-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-<!-- ═══════════════ ⑤ 연대기 · Chronicle ═══════════════ -->
-## 🕯️ 연대기 · Chronicle
+<!-- ═══════════════ ⑤ Journey ═══════════════ -->
+## 📈 Journey
 
-> *한 줄의 예제에서 하나의 왕국으로. · From a single exercise to a kingdom of services.*
+**Foundations** *(late 2025)*
+Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습.
+*Java/Spring fundamentals, servlet·socket·board exercises, Flutter with Firestore/Riverpod.*
 
-**🕯️ 제1막 — 수련 · Apprenticeship** *(2025 말 · late 2025)*
-Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod로 첫 결계를 세우다.
+**Expansion** *(H1 2026)*
+풀스택 통합(Spring + React + Flutter), MSA 입문, 병원 시스템 [HMS](https://github.com/proejct-team-alpha/hms) 팀 프로젝트, Docker·AWS 확장.
+*Full-stack integration, first MSA work, the HMS hospital-system team project, Docker & AWS.*
 
-**🔥 제2막 — 확장 · Expansion** *(2026 상반기 · H1 2026)*
-풀스택 통합(Spring + React + Flutter), MSA 입문, 병원 시스템 [HMS](https://github.com/proejct-team-alpha/hms) 팀 프로젝트, Docker·AWS로 영역을 넓히다.
-
-**👑 제3막 — 정립 · Ascension** *(2026 중반 · mid 2026)*
-[Synapse](https://github.com/team-project-final/synapse)(8-svc MSA + GitOps)와 [DevPath AI](https://github.com/DevPathAi)(이벤트 드리븐 · gVisor 격리 · AI 오케스트레이션)로 분산 시스템의 왕관을 벼리다.
+**Distributed Systems** *(mid 2026)*
+[Synapse](https://github.com/team-project-final/synapse)(8-svc MSA + GitOps)와 [DevPath AI](https://github.com/DevPathAi)(이벤트 드리븐 · gVisor 격리 · AI 오케스트레이션) 설계·구축.
+*Designing and building Synapse (8-svc MSA + GitOps) and DevPath AI (event-driven · gVisor isolation · AI orchestration).*
 
 ---
 
-<!-- ═══════════════ ⑥ 룬 석판 · Stats ═══════════════ -->
-## 🔮 룬 석판 · Runestones
+<!-- ═══════════════ ⑥ GitHub Stats ═══════════════ -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VelkaressiaBlutkrone&style=for-the-badge&color=8B0000&labelColor=0d1117&label=PROFILE+VIEWS" />
-<img alt="Followers" src="https://img.shields.io/github/followers/VelkaressiaBlutkrone?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B0000&labelColor=0d1117" />
-<img alt="Following 5" src="https://img.shields.io/badge/FOLLOWING-5-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VelkaressiaBlutkrone&style=for-the-badge&color=1f6feb&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img alt="Followers" src="https://img.shields.io/github/followers/VelkaressiaBlutkrone?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=1f6feb&labelColor=0d1117" />
+<img alt="Following 5" src="https://img.shields.io/badge/FOLLOWING-5-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 <br />
-<img alt="Class: Full-Stack Necromancer" src="https://img.shields.io/badge/CLASS-Full--Stack_Necromancer-8B0000?style=for-the-badge&labelColor=0d1117" />
-<img alt="Strongholds: 8 Orgs" src="https://img.shields.io/badge/STRONGHOLDS-8_Orgs-8B0000?style=for-the-badge&labelColor=0d1117" />
-<img alt="Focus: MSA & Event-Driven" src="https://img.shields.io/badge/FOCUS-MSA_%26_Event--Driven-8B0000?style=for-the-badge&labelColor=0d1117" />
-<img alt="Awakened Jan 2021" src="https://img.shields.io/badge/AWAKENED-Jan_2021-8B0000?style=for-the-badge&labelColor=0d1117" />
+<img alt="Role: Full-Stack Developer" src="https://img.shields.io/badge/ROLE-Full--Stack_Developer-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img alt="Orgs: 8" src="https://img.shields.io/badge/ORGS-8-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img alt="Focus: MSA & Event-Driven" src="https://img.shields.io/badge/FOCUS-MSA_%26_Event--Driven-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img alt="Since Jan 2021" src="https://img.shields.io/badge/SINCE-Jan_2021-1f6feb?style=for-the-badge&labelColor=0d1117" />
 
 <br /><br />
 
-<img height="165" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VelkaressiaBlutkrone&hide_border=true&background=0d1117&stroke=8b0000&ring=b22222&fire=b22222&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b8b8b&currStreakNum=f2e9e9&sideNums=f2e9e9" />
+<img height="165" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VelkaressiaBlutkrone&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b8b8b&currStreakNum=f0f6fc&sideNums=f0f6fc" />
 
 </div>
 
-> 🩸 *봉인된 서고(비공개 레포)의 힘은 룬에 새겨지지 않는다 — 무기고와 연대기가 진짜 이야기를 전한다.*
-> *The sealed vault (private repos) is not etched into these runes — the Arsenal and the Chronicle tell the true tale.*
+> 주요 작업은 비공개/조직 레포에 있어 공개 통계에 모두 잡히지 않습니다 — Featured Projects와 Journey가 실제 작업을 보여줍니다.
+> *Most work lives in private & org repos and isn't fully reflected here — see Featured Projects and Journey for the real picture.*
 
 ---
 
-<!-- ═══════════════ ⑦ 결계 · Contact ═══════════════ -->
-## 🕸️ 결계 · Wards
+<!-- ═══════════════ ⑦ Contact ═══════════════ -->
+## 📫 Contact
 
 <p align="center">
-<a href="https://github.com/VelkaressiaBlutkrone"><img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:deepestdark@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/VelkaressiaBlutkrone"><img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:deepestdark@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:6d0000,100:2b0000&height=120&section=footer" />
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" />
