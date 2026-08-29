@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 - **풀스택 · Full-stack** — Spring(백엔드) · React(프론트) · Flutter(모바일)
-- **성장 궤적 · Growth arc** — 기초 학습에서 이벤트 기반 분산 시스템 아키텍처로 · from fundamentals to event-driven distributed architecture
+- **성장 궤적 · Growth arc** — C#/.NET 산업 시스템에서 이벤트 기반 분산 시스템 아키텍처로 · from C#/.NET industrial systems to event-driven distributed architecture
 - **현재 관심 · Current focus** — MSA · Event-Driven · Kubernetes / GitOps · AI Orchestration
 - **협업 · Collaboration** — 8개 조직에서 팀 프로젝트를 이끄는 중 · leading team projects across 8 orgs
 
@@ -33,9 +33,9 @@
 *A large-scale learning platform built on event-driven microservices.*
 
 - **Role** — 시스템 설계 및 팀 리딩 · system design & team lead
-- **Architecture** — OAuth2 / JWT 엣지 게이트웨이 · 이벤트 기반 서비스 분해 · Kubernetes GitOps 배포
+- **Architecture** — OAuth2 / JWT 엣지 게이트웨이 · 이벤트 기반 서비스 분해 · Kubernetes GitOps 배포 · edge gateway, event-driven decomposition, GitOps deployment
 - **Isolated execution** — `sandbox-svc`가 **Docker + gVisor**로 사용자 코드를 격리 실행 · user code sandboxed with Docker + gVisor
-- **AI layer** — AI 게이트웨이 오케스트레이터 · 리뷰 워커 · FinOps 비용 통제
+- **AI layer** — AI 게이트웨이 오케스트레이터 · 리뷰 워커 · FinOps 비용 통제 · AI gateway orchestrator, review workers, FinOps cost control
 - **Services** —
 [gateway](https://github.com/DevPathAi/devpath-gateway) ·
 [platform-svc](https://github.com/DevPathAi/devpath-platform-svc) ·
@@ -47,12 +47,12 @@
 [frontend](https://github.com/DevPathAi/devpath-frontend)
 
 <p>
-<img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-1f6feb?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/gVisor-1f6feb?style=for-the-badge&logo=google&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-1f6feb?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="gVisor" src="https://img.shields.io/badge/gVisor-1f6feb?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Synapse — 8개 서비스 MSA 플랫폼 · An 8-service microservices platform
@@ -61,8 +61,8 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 *A domain-oriented distributed system managed as a git-submodule umbrella.*
 
 - **Role** — 아키텍처 설계 및 팀 리딩 · architecture design & team lead
-- **Umbrella** — `synapse` 메타 레포가 서비스/인프라를 submodule로 통합
-- **Contracts** — `synapse-shared`의 **Avro 스키마** + 공통 라이브러리
+- **Umbrella** — `synapse` 메타 레포가 서비스/인프라를 submodule로 통합 · meta-repo integrating services & infra as submodules
+- **Contracts** — `synapse-shared`의 **Avro 스키마** + 공통 라이브러리 · Avro schema contracts & shared libraries
 - **Delivery** — **Kubernetes + ArgoCD ApplicationSet** GitOps
 - **Domains** —
 [umbrella](https://github.com/team-project-final/synapse) ·
@@ -76,12 +76,12 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 [gitops](https://github.com/team-project-final/synapse-gitops)
 
 <p>
-<img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo_CD-1f6feb?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img alt="Apache Avro" src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=for-the-badge&logo=apache&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-1f6feb?style=for-the-badge&logo=argo&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
@@ -91,48 +91,49 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 
 **Languages**
 <p>
-<img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-1f6feb?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-1f6feb?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-1f6feb?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-1f6feb?style=for-the-badge&logo=dart&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f6feb?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-1f6feb?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1f6feb?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 **Backend**
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Cloud_Gateway-1f6feb?style=for-the-badge&logo=spring&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-1f6feb?style=for-the-badge&logo=springboot&logoColor=white" />
+<img alt="Spring Cloud Gateway" src="https://img.shields.io/badge/Spring_Cloud_Gateway-1f6feb?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 **Frontend**
 <p>
-<img src="https://img.shields.io/badge/React-1f6feb?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Riverpod-1f6feb?style=for-the-badge&logo=riverpod&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-1f6feb?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-1f6feb?style=for-the-badge&logo=flutter&logoColor=white" />
+<img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-1f6feb?style=for-the-badge&logo=riverpod&logoColor=white" />
 </p>
 
 **Data**
 <p>
-<img src="https://img.shields.io/badge/MySQL-1f6feb?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-1f6feb?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firestore-1f6feb?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=for-the-badge&logo=apache&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f6feb?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f6feb?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Firestore" src="https://img.shields.io/badge/Firestore-1f6feb?style=for-the-badge&logo=firebase&logoColor=white" />
+<img alt="Apache Avro" src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 **Infra & DevOps**
 <p>
-<img src="https://img.shields.io/badge/Docker-1f6feb?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo_CD-1f6feb?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/gVisor-1f6feb?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-1f6feb?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-1f6feb?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1f6feb?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-1f6feb?style=for-the-badge&logo=argo&logoColor=white" />
+<img alt="gVisor" src="https://img.shields.io/badge/gVisor-1f6feb?style=for-the-badge&logo=google&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-1f6feb?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 **AI**
 <p>
-<img src="https://img.shields.io/badge/LLM_Orchestration-1f6feb?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_AI_Service-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="LLM Orchestration" src="https://img.shields.io/badge/LLM_Orchestration-1f6feb?style=for-the-badge&logo=openai&logoColor=white" />
+<img alt="Python AI Service" src="https://img.shields.io/badge/Python_AI_Service-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -140,9 +141,13 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 <!-- ═══════════════ ⑤ Journey ═══════════════ -->
 ## 📈 Journey
 
+**Industrial Systems** *(2021 – 2023)* <br />
+C# / .NET 선박 안전 관리 시스템(AIS·전자해도·비상 대응)과 자율운항 지원 시스템(센서·CCTV·NMEA 통신), C++ 소프트웨어 개발 — 일부는 2026년까지 지속 유지보수. Spring 웹·ERP로 Java 첫 경험. <br />
+*Maritime safety-management & autonomous-operation support systems in C#/.NET (AIS, ENC charts, sensors, NMEA) and C++ software — some maintained through 2026. First Java work with Spring web & ERP.*
+
 **Foundations** *(late 2025)* <br />
-Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습. <br />
-*Java/Spring fundamentals, servlet·socket·board exercises, Flutter with Firestore/Riverpod.*
+풀스택 전환 — Java / Spring 기초부터 재정비, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습. <br />
+*Pivot to full-stack — rebuilding Java/Spring fundamentals, servlet·socket·board exercises, Flutter with Firestore/Riverpod.*
 
 **Expansion** *(H1 2026)* <br />
 풀스택 통합(Spring + React + Flutter), MSA 입문, 병원 시스템 [HMS](https://github.com/proejct-team-alpha/hms) 팀 프로젝트, Docker·AWS 확장. <br />
@@ -183,8 +188,8 @@ Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / R
 ## 📫 Contact
 
 <p align="center">
-<a href="https://github.com/VelkaressiaBlutkrone"><img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:deepestdark@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/VelkaressiaBlutkrone"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:deepestdark@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" />
