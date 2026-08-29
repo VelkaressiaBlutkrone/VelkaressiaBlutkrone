@@ -1,3 +1,40 @@
+# 프로필 README 리모델 구현 계획
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** 다크 판타지 콘셉트의 프로필 README를 판타지 언어 전면 제거 + GitHub 다크 뉴트럴 팔레트의 프로페셔널 개발자 프로필로 전면 리라이트한다.
+
+**Architecture:** 기존 7섹션 골격과 검증된 배지 URL 구조를 유지한 채 `README.md` 단일 파일을 전면 교체한다. 색상은 `8B0000(혈적색) → 1f6feb(GitHub accent blue)` 단색 치환, 문구는 표준 개발자 용어로 교체한다.
+
+**Tech Stack:** GitHub Flavored Markdown · shields.io · capsule-render · readme-typing-svg · komarev · github-readme-streak-stats
+
+**Spec:** `docs/superpowers/specs/2026-08-29-profile-remodel-design.md`
+
+## Global Constraints
+
+- 판타지 언어(강령술사·마법서·룬·결계·소환 등) 사용 금지 — 본문·배지·alt 텍스트 전부.
+- 팔레트: 배경 `0d1117`, 포인트 `1f6feb`, 보조 `58a6ff`, 텍스트 `c9d1d9`. 배지는 `for-the-badge` + `labelColor=0d1117` 유지.
+- 한/영 병기 유지.
+- 기존 프로젝트/서비스 링크(DevPath AI 8종, Synapse 9종, HMS)는 URL 변경 없이 전부 유지.
+- 작업 브랜치 `feat/profile-remodel`(develop에서 분기, 생성 완료) → develop으로 PR. main 직접 푸시 금지.
+- 모든 git 명령에 `-C /d/workspace/velkaressiaBlutkrone` 절대경로 사용.
+
+---
+
+### Task 1: README.md 전면 리라이트
+
+**Files:**
+- Modify: `README.md` (전체 교체)
+
+**Interfaces:**
+- Consumes: 없음 (스펙 문서만 참조)
+- Produces: 완성된 `README.md` — Task 2가 이 파일의 URL을 전수 검증한다.
+
+- [ ] **Step 1: README.md를 아래 내용으로 전체 교체**
+
+아래 내용을 그대로 사용한다(자체 창작·변형 금지):
+
+````markdown
 <!-- ═══════════════ ① Cover ═══════════════ -->
 <div align="center">
 
@@ -188,3 +225,92 @@ Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / R
 </p>
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" />
+````
+
+- [ ] **Step 2: 판타지 잔존 문구 검사**
+
+Run: `grep -inE "necromancer|강령|마법|마도|룬|결계|소환|봉인|왕관|grimoire|rune|ward|awakened|stronghold|의식|석판|혈|blood" /d/workspace/velkaressiaBlutkrone/README.md`
+Expected: 매치 0건 (exit code 1). 매치가 나오면 해당 문구를 스펙 §3의 대응 문구로 교체 후 재실행.
+
+- [ ] **Step 3: 구색상 잔존 검사**
+
+Run: `grep -icE "8B0000|B22222|6d0000|2b0000|0a0000" /d/workspace/velkaressiaBlutkrone/README.md`
+Expected: `0` (exit code 1). 매치가 나오면 `1f6feb` 팔레트로 교체 후 재실행.
+
+- [ ] **Step 4: 커밋**
+
+```bash
+git -C /d/workspace/velkaressiaBlutkrone add README.md
+git -C /d/workspace/velkaressiaBlutkrone commit -m "feat: 프로필 README 프로페셔널 리모델 (판타지 콘셉트 제거)"
+```
+
+### Task 2: 외부 URL 전수 검증
+
+**Files:**
+- Modify: `README.md` (검증 실패 URL 발견 시에만 수정)
+
+**Interfaces:**
+- Consumes: Task 1이 작성한 `README.md`
+- Produces: 전체 URL이 HTTP 200을 반환하는 검증 완료된 `README.md`
+
+- [ ] **Step 1: URL 전수 추출 및 상태 코드 확인**
+
+```bash
+grep -oE 'https://[^")<> ]+' /d/workspace/velkaressiaBlutkrone/README.md | sort -u | while read u; do
+  code=$(curl -s -o /dev/null -w '%{http_code}' -L --max-time 30 "$u")
+  echo "$code $u"
+done
+```
+
+Expected: 모든 행이 `200`으로 시작.
+- `github-readme-streak-stats.herokuapp.com`은 콜드 스타트로 첫 요청이 503일 수 있음 — 해당 URL만 1회 재시도해 200이면 통과.
+- `mailto:` 링크는 https가 아니므로 검증 대상에 포함되지 않음(정상).
+
+- [ ] **Step 2: 실패 URL이 있으면 수정 후 Step 1 재실행**
+
+실패 원인은 대부분 URL 인코딩 오류(한글·`·`·`&` 문자). 스펙 §2의 인코딩 값과 대조해 교정한다. 수정이 없었다면 이 단계와 Step 3을 건너뛴다.
+
+- [ ] **Step 3: 수정이 있었다면 커밋**
+
+```bash
+git -C /d/workspace/velkaressiaBlutkrone add README.md
+git -C /d/workspace/velkaressiaBlutkrone commit -m "fix: 배지/이미지 URL 교정"
+```
+
+### Task 3: PR 생성 및 머지 (develop → 릴리스)
+
+**Files:**
+- 없음 (git 작업만)
+
+**Interfaces:**
+- Consumes: Task 1·2가 완성한 `feat/profile-remodel` 브랜치
+- Produces: `main`에 머지된 리모델 README (프로필 공개 반영)
+
+- [ ] **Step 1: 브랜치 푸시 및 develop 대상 PR 생성**
+
+```bash
+git -C /d/workspace/velkaressiaBlutkrone push -u origin feat/profile-remodel
+gh pr create --repo VelkaressiaBlutkrone/VelkaressiaBlutkrone --base develop --head feat/profile-remodel --title "feat: 프로필 README 프로페셔널 리모델" --body "판타지 콘셉트 전면 제거, GitHub 다크 뉴트럴 팔레트 적용. 스펙: docs/superpowers/specs/2026-08-29-profile-remodel-design.md
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)"
+```
+
+- [ ] **Step 2: PR 머지 (이 레포는 CI 없음 — 상태 체크 없이 머지)**
+
+```bash
+gh pr merge --repo VelkaressiaBlutkrone/VelkaressiaBlutkrone --merge feat/profile-remodel
+```
+
+- [ ] **Step 3: 릴리스 PR (develop → main) 생성 및 머지**
+
+```bash
+gh pr create --repo VelkaressiaBlutkrone/VelkaressiaBlutkrone --base main --head develop --title "release: 프로필 README 프로페셔널 리모델" --body "develop → main 릴리스. 프로필 리모델 반영.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)"
+gh pr merge --repo VelkaressiaBlutkrone/VelkaressiaBlutkrone --merge develop
+```
+
+- [ ] **Step 4: 최종 확인**
+
+Run: `git -C /d/workspace/velkaressiaBlutkrone fetch origin && git -C /d/workspace/velkaressiaBlutkrone log origin/main --oneline -3`
+Expected: 릴리스 머지 커밋이 최상단에 존재. 이후 https://github.com/VelkaressiaBlutkrone 프로필 페이지에서 렌더링을 확인한다.
