@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 - **풀스택 · Full-stack** — Spring(백엔드) · React(프론트) · Flutter(모바일)
-- **성장 궤적 · Growth arc** — 기초 학습에서 이벤트 기반 분산 시스템 아키텍처로 · from fundamentals to event-driven distributed architecture
+- **성장 궤적 · Growth arc** — C#/.NET 산업 시스템에서 이벤트 기반 분산 시스템 아키텍처로 · from C#/.NET industrial systems to event-driven distributed architecture
 - **현재 관심 · Current focus** — MSA · Event-Driven · Kubernetes / GitOps · AI Orchestration
 - **협업 · Collaboration** — 8개 조직에서 팀 프로젝트를 이끄는 중 · leading team projects across 8 orgs
 
@@ -97,6 +97,7 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 <img alt="Python" src="https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-1f6feb?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1f6feb?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 **Backend**
@@ -140,9 +141,13 @@ git submodule 엄브렐러로 묶인 도메인 지향 분산 시스템. <br />
 <!-- ═══════════════ ⑤ Journey ═══════════════ -->
 ## 📈 Journey
 
+**Industrial Systems** *(2021 – 2023)* <br />
+C# / .NET 선박 안전 관리 시스템(AIS·전자해도·비상 대응)과 자율운항 지원 시스템(센서·CCTV·NMEA 통신), C++ 소프트웨어 개발 — 일부는 2026년까지 지속 유지보수. Spring 웹·ERP로 Java 첫 경험. <br />
+*Maritime safety-management & autonomous-operation support systems in C#/.NET (AIS, ENC charts, sensors, NMEA) and C++ software — some maintained through 2026. First Java work with Spring web & ERP.*
+
 **Foundations** *(late 2025)* <br />
-Java / Spring 기초, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습. <br />
-*Java/Spring fundamentals, servlet·socket·board exercises, Flutter with Firestore/Riverpod.*
+풀스택 전환 — Java / Spring 기초부터 재정비, 서블릿·소켓·게시판 예제, Flutter Firestore / Riverpod 학습. <br />
+*Pivot to full-stack — rebuilding Java/Spring fundamentals, servlet·socket·board exercises, Flutter with Firestore/Riverpod.*
 
 **Expansion** *(H1 2026)* <br />
 풀스택 통합(Spring + React + Flutter), MSA 입문, 병원 시스템 [HMS](https://github.com/proejct-team-alpha/hms) 팀 프로젝트, Docker·AWS 확장. <br />
